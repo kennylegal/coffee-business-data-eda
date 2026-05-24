@@ -1,58 +1,53 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+![Company Logo](https://github.com/kennylegal/coffee-business-data-eda/blob/main/Objectives/1.png)
 
 ## Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
-## Key Questions
-1. **Coffee Consumers Count**  
-   How many people in each city are estimated to consume coffee, given that 25% of the population does?
+## Executive Summary
+This analysis evaluated multiple Indian cities to identify the most suitable locations for expanding the coffee business from an online model into physical retail outlets. The analysis evaluated cities based on key business metrics including:
 
-2. **Total Revenue from Coffee Sales**  
-   What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+   - Estimated coffee consumer population
+   - Customer volume
+   - Revenue generation
+   - Average sales per customer
+   - Rental efficiency
 
-3. **Sales Count for Each Product**  
-   How many units of each coffee product have been sold?
 
-4. **Average Sales Amount per City**  
-   What is the average sales amount per customer in each city?
+Based on the analysis, the recommended cities for expansion are Pune, Delhi, and Jaipur.
 
-5. **City Population and Coffee Consumers**  
-   Provide a list of cities along with their populations and estimated coffee consumers.
+**City 1: Pune** 
+   Pune emerged as the strongest expansion candidate due to its combination of high total revenue, strong customer spending behavior, and low rental cost per customer.
 
-6. **Top Selling Products by City**  
-   What are the top 3 selling products in each city based on sales volume?
+**City 2: Delhi**
+   Delhi offers the largest market opportunity with the highest estimated coffee-consuming population and strong customer volume, making it ideal for large-scale market penetration.
 
-7. **Customer Segmentation by City**  
-   How many unique customers are there in each city who have purchased coffee products?
+**City 3: Jaipur**
+   Jaipur demonstrated strong operational efficiency with low rental costs and healthy customer spending, making it a cost-effective location for sustainable growth.
 
-8. **Average Sale vs Rent**  
-   Find each city and their average sale per customer and avg rent per customer
+The findings suggest that prioritizing expansion into these cities could maximize revenue potential while maintaining efficient operational costs and improving long-term profitability.
 
-9. **Monthly Sales Growth**  
-   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+**Business Impact**
 
-10. **Market Potential Analysis**  
-    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
-    
+The analysis provides data-driven guidance for selecting profitable locations for physical store expansion. By identifying cities with strong customer demand and favorable rental economics, the business can reduce expansion risk and improve return on investment.
 
-## Recommendations
-After analyzing the data, the recommended top three cities for new store openings are:
+Impact of Choosing Pune
+Pune presents the best balance between revenue generation and operational cost efficiency. High average sales per customer indicate strong purchasing behavior, while low rent per customer improves potential profit margins. Expanding into Pune could help the business achieve faster profitability and stronger revenue stability.
 
-**City 1: Pune**  
-1. Average rent per customer is very low.  
-2. Highest total revenue.  
-3. Average sales per customer is also high.
+Impact of Choosing Delhi
+Delhi offers access to the largest consumer market among all evaluated cities. Its high estimated coffee-consuming population of about 7.7 million, this creates significant long-term growth opportunities and brand visibility. Although rental costs are higher than Jaipur and Pune (330 which is still below 500), the large customer base of 68 may justify the investment through higher sales volume.
 
-**City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
+Impact of Choosing Jaipur
+Jaipur provides a low-cost expansion opportunity due to its very low 156 rent per customer. Strong customer volume and healthy average sales per customer of 11.6k indicate that Jaipur could support a profitable outlet with lower operational risk. This makes it an attractive option for cost-efficient scaling.
 
-**City 3: Jaipur**  
-1. Highest number of customers, which is 69.  
-2. Average rent per customer is very low at 156.  
-3. Average sales per customer is better at 11.6k.
+**Conclusion**
 
+The analysis indicates that Pune, Delhi, and Jaipur provide the strongest opportunities for successful physical store expansion based on market demand, customer behavior, and operational cost efficiency. Each city offers unique strategic advantages:
+
+Pune for profitability and strong customer spending,
+Delhi for market scale and growth potential,
+Jaipur for cost-effective expansion.
+
+A phased expansion strategy beginning with Pune and Delhi while leveraging Jaipur as a lower-cost growth market could help the business optimize revenue growth and operational sustainability.
 ---
