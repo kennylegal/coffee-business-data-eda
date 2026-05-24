@@ -28,20 +28,20 @@ Based on the analysis, the recommended cities for expansion are Pune, Delhi, and
 
 The findings suggest that prioritizing expansion into these cities could maximize revenue potential while maintaining efficient operational costs and improving long-term profitability.
 
-**Business Impact**
+## Business Impact
 
 The analysis provides data-driven guidance for selecting profitable locations for physical store expansion. By identifying cities with strong customer demand and favorable rental economics, the business can reduce expansion risk and improve return on investment.
 
-Impact of Choosing Pune
+**Impact of Choosing Pune**
 Pune presents the best balance between revenue generation and operational cost efficiency. High average sales per customer indicate strong purchasing behavior, while low rent per customer improves potential profit margins. Expanding into Pune could help the business achieve faster profitability and stronger revenue stability.
 
-Impact of Choosing Delhi
+**Impact of Choosing Delhi**
 Delhi offers access to the largest consumer market among all evaluated cities. Its high estimated coffee-consuming population of about 7.7 million, this creates significant long-term growth opportunities and brand visibility. Although rental costs are higher than Jaipur and Pune (330 which is still below 500), the large customer base of 68 may justify the investment through higher sales volume.
 
-Impact of Choosing Jaipur
+**Impact of Choosing Jaipur**
 Jaipur provides a low-cost expansion opportunity due to its very low 156 rent per customer. Strong customer volume and healthy average sales per customer of 11.6k indicate that Jaipur could support a profitable outlet with lower operational risk. This makes it an attractive option for cost-efficient scaling.
 
-**Conclusion**
+## Conclusion
 
 The analysis indicates that Pune, Delhi, and Jaipur provide the strongest opportunities for successful physical store expansion based on market demand, customer behavior, and operational cost efficiency. Each city offers unique strategic advantages:
 
