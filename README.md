@@ -48,6 +48,5 @@ The analysis indicates that Pune, Delhi, and Jaipur provide the strongest opport
 Pune for profitability and strong customer spending,
 Delhi for market scale and growth potential,
 Jaipur for cost-effective expansion.
-
 A phased expansion strategy beginning with Pune and Delhi while leveraging Jaipur as a lower-cost growth market could help the business optimize revenue growth and operational sustainability.
----
+
